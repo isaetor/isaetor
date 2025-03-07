@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Saeed!
 
-<!--
-**isaetor/isaetor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+>I am a passionate front-end developer with a strong interest in continuous learning and team collaboration. My expertise lies in developing front-end applications using React and the Next.js framework. I constantly strive to keep my technical knowledge up to date and apply the latest technologies and best practices in projects. Additionally, I am enthusiastic about sharing my knowledge and experiences with others, believing that both learning and teaching contribute to individual and team growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,mongodb,nodejs,ts,js,tailwind,css,html)](https://skillicons.dev)
+
+- **Next.js**
+- **React**
+- **JavaScript** (ES6)
+- **CSS** (Tailwind, Ant Design)
+- **HTML**
